@@ -1,0 +1,12 @@
+# install Spotipy
+# Spotify is an audio streaming and media services provider
+!pip install spotipy
+
+# install yellowbrick & Plotly
+# Visualization libraries
+!pip install yellowbrick
+!pip install plotly
+
+# install kneed
+# This repository is an attempt to implement the kneedle algorithm, published here. Given a set of x and y values, kneed will return the knee point of the function. The knee point is the point of maximum curvature.
+!pip install kneed
